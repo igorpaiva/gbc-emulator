@@ -1,0 +1,4 @@
+#ifndef GBCEMULATOR_HPP
+#define GBCEMULATOR_HPP
+
+#endif
